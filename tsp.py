@@ -9,7 +9,7 @@ from random import shuffle
 import random
 import numpy as np
 import seaborn as sns
-
+import streamlit as st
 # ----------------------------------------------------------
 # PARAMETERS
 # ----------------------------------------------------------
