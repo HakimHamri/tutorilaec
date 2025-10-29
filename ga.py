@@ -1,5 +1,5 @@
 import random
-
+import streamlit as st
 # Parameters
 POP_SIZE = 500  # Number of chromosomes
 MUT_RATE = 0.2  # Mutation rate
