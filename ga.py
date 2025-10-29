@@ -85,4 +85,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 result = main(POP_SIZE, MUT_RATE, TARGET, GENES)
